@@ -26,7 +26,15 @@ namespace BS.Web.Models
             return new {
                 recordsTotal = data.Item2,
                 recordsFiltered = data.Item3,
-                data = data.Item1
+                data = (from record in data.Item1
+                        select new string[]
+                        {
+                            record.Title.ToString(),
+                            record.UserName.ToString(),
+                            "naan",
+                            "naan"
+                        }
+                        )
             };
         }
     }
