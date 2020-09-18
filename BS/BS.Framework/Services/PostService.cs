@@ -21,7 +21,7 @@ namespace BS.Framework.Services
                 .GetDynamic(x => x.Title.Contains(searchText),
                     null,
                     x => x.Include(y => y.Comments).ThenInclude(c => c.Votes)
-                    , pageNum, 3, true);
+                    , pageNum, 10, true);
         }
     }
 }
