@@ -1,0 +1,9 @@
+C:\Users\fahim\Desktop\git\BS23\BS\BS.Data\bin\Debug\netcoreapp3.1\BS.Data.deps.json
+C:\Users\fahim\Desktop\git\BS23\BS\BS.Data\bin\Debug\netcoreapp3.1\BS.Data.dll
+C:\Users\fahim\Desktop\git\BS23\BS\BS.Data\bin\Debug\netcoreapp3.1\BS.Data.pdb
+C:\Users\fahim\Desktop\git\BS23\BS\BS.Data\obj\Debug\netcoreapp3.1\BS.Data.AssemblyInfoInputs.cache
+C:\Users\fahim\Desktop\git\BS23\BS\BS.Data\obj\Debug\netcoreapp3.1\BS.Data.AssemblyInfo.cs
+C:\Users\fahim\Desktop\git\BS23\BS\BS.Data\obj\Debug\netcoreapp3.1\BS.Data.csproj.CoreCompileInputs.cache
+C:\Users\fahim\Desktop\git\BS23\BS\BS.Data\obj\Debug\netcoreapp3.1\BS.Data.dll
+C:\Users\fahim\Desktop\git\BS23\BS\BS.Data\obj\Debug\netcoreapp3.1\BS.Data.pdb
+C:\Users\fahim\Desktop\git\BS23\BS\BS.Data\obj\Debug\netcoreapp3.1\BS.Data.csprojAssemblyReference.cache

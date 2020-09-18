@@ -1,0 +1,12 @@
+C:\Users\fahim\Desktop\git\BS23\BS\BS.Membership\bin\Debug\netcoreapp3.1\BS.Membership.deps.json
+C:\Users\fahim\Desktop\git\BS23\BS\BS.Membership\bin\Debug\netcoreapp3.1\BS.Membership.dll
+C:\Users\fahim\Desktop\git\BS23\BS\BS.Membership\bin\Debug\netcoreapp3.1\BS.Membership.pdb
+C:\Users\fahim\Desktop\git\BS23\BS\BS.Membership\bin\Debug\netcoreapp3.1\BS.Data.dll
+C:\Users\fahim\Desktop\git\BS23\BS\BS.Membership\bin\Debug\netcoreapp3.1\BS.Data.pdb
+C:\Users\fahim\Desktop\git\BS23\BS\BS.Membership\obj\Debug\netcoreapp3.1\BS.Membership.csprojAssemblyReference.cache
+C:\Users\fahim\Desktop\git\BS23\BS\BS.Membership\obj\Debug\netcoreapp3.1\BS.Membership.AssemblyInfoInputs.cache
+C:\Users\fahim\Desktop\git\BS23\BS\BS.Membership\obj\Debug\netcoreapp3.1\BS.Membership.AssemblyInfo.cs
+C:\Users\fahim\Desktop\git\BS23\BS\BS.Membership\obj\Debug\netcoreapp3.1\BS.Membership.csproj.CoreCompileInputs.cache
+C:\Users\fahim\Desktop\git\BS23\BS\BS.Membership\obj\Debug\netcoreapp3.1\BS.Membership.csproj.CopyComplete
+C:\Users\fahim\Desktop\git\BS23\BS\BS.Membership\obj\Debug\netcoreapp3.1\BS.Membership.dll
+C:\Users\fahim\Desktop\git\BS23\BS\BS.Membership\obj\Debug\netcoreapp3.1\BS.Membership.pdb

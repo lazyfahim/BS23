@@ -1,0 +1,12 @@
+C:\Users\fahim\Desktop\git\BS23\BS\BS.Framework\bin\Debug\netcoreapp3.1\BS.Framework.deps.json
+C:\Users\fahim\Desktop\git\BS23\BS\BS.Framework\bin\Debug\netcoreapp3.1\BS.Framework.dll
+C:\Users\fahim\Desktop\git\BS23\BS\BS.Framework\bin\Debug\netcoreapp3.1\BS.Framework.pdb
+C:\Users\fahim\Desktop\git\BS23\BS\BS.Framework\bin\Debug\netcoreapp3.1\BS.Data.dll
+C:\Users\fahim\Desktop\git\BS23\BS\BS.Framework\bin\Debug\netcoreapp3.1\BS.Data.pdb
+C:\Users\fahim\Desktop\git\BS23\BS\BS.Framework\obj\Debug\netcoreapp3.1\BS.Framework.csprojAssemblyReference.cache
+C:\Users\fahim\Desktop\git\BS23\BS\BS.Framework\obj\Debug\netcoreapp3.1\BS.Framework.AssemblyInfoInputs.cache
+C:\Users\fahim\Desktop\git\BS23\BS\BS.Framework\obj\Debug\netcoreapp3.1\BS.Framework.AssemblyInfo.cs
+C:\Users\fahim\Desktop\git\BS23\BS\BS.Framework\obj\Debug\netcoreapp3.1\BS.Framework.csproj.CoreCompileInputs.cache
+C:\Users\fahim\Desktop\git\BS23\BS\BS.Framework\obj\Debug\netcoreapp3.1\BS.Framework.csproj.CopyComplete
+C:\Users\fahim\Desktop\git\BS23\BS\BS.Framework\obj\Debug\netcoreapp3.1\BS.Framework.dll
+C:\Users\fahim\Desktop\git\BS23\BS\BS.Framework\obj\Debug\netcoreapp3.1\BS.Framework.pdb

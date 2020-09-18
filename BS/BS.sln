@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BS.Data", "BS.Data\BS.Data.csproj", "{45420880-322A-49BB-86A7-97284D6A4080}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BS.Framework", "BS.Framework\BS.Framework.csproj", "{FF7BA345-FAE0-4024-B45E-F5AB72DD3C34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BS.Web", "BS.Web\BS.Web.csproj", "{C006C929-8BAC-4D00-A5F2-397F77EC7661}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45420880-322A-49BB-86A7-97284D6A4080}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45420880-322A-49BB-86A7-97284D6A4080}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45420880-322A-49BB-86A7-97284D6A4080}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45420880-322A-49BB-86A7-97284D6A4080}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF7BA345-FAE0-4024-B45E-F5AB72DD3C34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF7BA345-FAE0-4024-B45E-F5AB72DD3C34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF7BA345-FAE0-4024-B45E-F5AB72DD3C34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF7BA345-FAE0-4024-B45E-F5AB72DD3C34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C006C929-8BAC-4D00-A5F2-397F77EC7661}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C006C929-8BAC-4D00-A5F2-397F77EC7661}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C006C929-8BAC-4D00-A5F2-397F77EC7661}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C006C929-8BAC-4D00-A5F2-397F77EC7661}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3FAA9FC7-D9CC-43A5-A0EB-155F1E40E628}
+	EndGlobalSection
+EndGlobal
